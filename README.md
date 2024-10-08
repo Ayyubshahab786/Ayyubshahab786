@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Ayyubshahab786's Stats](https://github-readme-stats.vercel.app/api?username=Ayyubshahab786&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
-![Ayyubshahab786's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayyubshahab786&theme=tokyonight&hide_border=false)
+![Ayyubshahab786's Stats](https://github-readme-stats.vercel.app/api?username=Ayyubshahab786&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Ayyubshahab786's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayyubshahab786&theme=tokyonight&hide_border=true)
